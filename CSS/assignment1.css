@@ -1,0 +1,67 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+#space{
+  width: 500px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#login{
+  width: 510px;
+  height: 44px;
+  border-radius: 5px;
+  background-color:blue;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: normal;
+  cursor: pointer;
+  border-style: none;
+}
+
+#log{
+  width: 510px;
+  height: 44px;
+  border-radius: 5px;
+  background-color:black;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: normal;
+  cursor: pointer;
+  border-style: none;
+}
+
+.flex{
+padding-top: 100px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+padding: 20px;
+}
+
+#Email{
+  margin-right: 395px;
+  height: 5vh;
+}
+
+.block{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+height: 5vh;
+}
+
+#for{
+  margin-right: 250px;
+}
+
+.join{
+  display: flex;
+  padding: 0;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

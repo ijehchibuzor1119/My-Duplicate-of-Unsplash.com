@@ -1,0 +1,39 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+#space{
+  width: 500px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#reset{
+  width: 510px;
+  height: 37px;
+  border-radius: 5px;
+  background-color: black;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: normal;
+  cursor: pointer;
+  border-style: none;
+}
+
+p{
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+.flex{
+padding-top: 120px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+#Email{
+  text-align: left;
+}
